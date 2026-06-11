@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Environment variables and secrets
+.env
+
+# Databases
+*.db
+unipay_bnpl.db
+
+# Testing and Reports
+.pytest_cache/
+test_report.html
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
